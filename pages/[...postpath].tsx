@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://www.almoeedtech.com/` + encodeURI(path as string)
+					`https://www.highrevenuegate.com/yekwap7j?key=0223518c043b15b5b25b0111fbf61911`
 				}`,
 			},
 		};
